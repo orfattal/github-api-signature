@@ -14,7 +14,7 @@
   "author": "jpreynat <johan.preynat@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "openpgp": "^4.4.10",
+    "openpgp": "^4.10.7",
     "pad": "^2.3.0"
   },
   "devDependencies": {
